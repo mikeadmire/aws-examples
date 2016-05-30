@@ -9,7 +9,7 @@
     "Subnet": {
       "Description": "A public subnet of VPC",
       "Type": "AWS::EC2::Subnet::Id"
-    }
+    },
     "KeyPair": {
       "Description": "An SSH key pair",
       "Type": "AWS::EC2::KeyPair::KeyName"
